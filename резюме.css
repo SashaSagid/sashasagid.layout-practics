@@ -1,0 +1,23 @@
+ 
+#main-title {
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+}
+
+.content {
+  background-color: orange;
+}
+
+
+p {
+          color: green;
+          font-size: 20px;
+        }
+h4 {
+color: black;
+}
+
+.menu li a {
+color: red;
+}
